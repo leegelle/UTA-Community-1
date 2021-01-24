@@ -40,7 +40,7 @@ Implemented SearchUser, SearchForum, Firebase Setup and Messaging
 
 ## Developer: David Trimino
 
-Implemented Foul Text Check, Helped with Navigation
+Implemented Foul Text Check, Helped with Navigation, and Documentaion
 
 Navigation has files:
 	Activity: Home2Activity
