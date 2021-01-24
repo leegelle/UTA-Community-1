@@ -53,7 +53,7 @@ Navigation has files:
 	Layout(xml): activity_main_drawer, nav_main_header, activity_home2
 
 
-	..................
+..................
 
 
 NOTE: Home2Activity was the main page in which all three group members, Liiban, Hung , & David helped out with. 
