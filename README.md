@@ -7,10 +7,6 @@ being sent on the due date 12/08 we did not have time to incorporate it with our
 
 
 
-Tasks Completed By:
-
-
-
 
 
 ## Developer: Liiban Gelle
