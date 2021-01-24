@@ -7,13 +7,9 @@ being sent on the due date 12/08 we did not have time to incorporate it with our
 
 
 
-Tasks Completed By:
 
 
-
-
-
-Developer: Liiban Gelle
+## Developer: Liiban Gelle
 
 Implemented Registration, Forum, Navigation, and Comments
 
@@ -36,25 +32,21 @@ Comment has files:
 
 
 
-Developer: Hung Nyguen
+## Developer: Hung Nyguen
 
 Implemented SearchUser, SearchForum, Firebase Setup and Messaging
 
 
-............
 
+## Developer: David Trimino
 
-Developer: David Trimino
-
-Implemented Foul Text Check, Helped with Navigation
+Implemented Foul Text Check, Helped with Navigation, and Documentaion
 
 Navigation has files:
 	Activity: Home2Activity
 	Layout(xml): activity_main_drawer, nav_main_header, activity_home2
 
 
-	..................
-
-
-NOTE: Home2Activity was the main page in which all three group members, Liiban, Hung , & David helped out with. 
+## NOTE
+**Home2Activity was the main page in which all three group members, Liiban, Hung , & David helped out with.**
 
