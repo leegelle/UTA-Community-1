@@ -13,7 +13,7 @@ Tasks Completed By:
 
 
 
-Developer: Liiban Gelle
+## Developer: Liiban Gelle
 
 Implemented Registration, Forum, Navigation, and Comments
 
@@ -36,15 +36,13 @@ Comment has files:
 
 
 
-Developer: Hung Nyguen
+## Developer: Hung Nyguen
 
 Implemented SearchUser, SearchForum, Firebase Setup and Messaging
 
 
-............
 
-
-Developer: David Trimino
+## Developer: David Trimino
 
 Implemented Foul Text Check, Helped with Navigation
 
@@ -52,8 +50,6 @@ Navigation has files:
 	Activity: Home2Activity
 	Layout(xml): activity_main_drawer, nav_main_header, activity_home2
 
-
-..................
 
 
 NOTE: Home2Activity was the main page in which all three group members, Liiban, Hung , & David helped out with. 
