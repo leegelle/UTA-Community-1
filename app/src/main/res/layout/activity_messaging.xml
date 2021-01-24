@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#e0af1f"
+    tools:context=".Activities.Messaging">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="433dp"
+        android:gravity="bottom"
+        android:text="TextView"
+        android:textStyle="bold"
+        android:textAlignment="gravity" />
+
+    <EditText
+        android:id="@+id/textbox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Type Here"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/sendbutton"
+        android:layout_width="match_parent"
+        android:layout_height="59dp"
+        android:text="Send" />
+</LinearLayout>
